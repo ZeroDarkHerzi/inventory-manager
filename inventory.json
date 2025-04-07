@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Test Product",
+    "description": "A test product",
+    "quantity": 10,
+    "price": 29.99,
+    "category": "Electronics",
+    "sku": "TEST001",
+    "id": "1743988061407",
+    "createdAt": "2025-04-07T01:07:41.407Z"
+  }
+]
